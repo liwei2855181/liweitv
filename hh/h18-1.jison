@@ -10,7 +10,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/1108zh.txt"
+                        "proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/liwei2855181/liweitv/main/hh/bo.txt"
                     ]
                 }
             ]

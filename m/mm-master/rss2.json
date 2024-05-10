@@ -1,0 +1,38 @@
+[
+    {
+        "name": "黑猫",
+        "info": "",
+        "icon": "t:猫#000000",
+        "sign": "3ebeb256058fbb7da1259c638b2f6d90",
+        "version": 1,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/黑猫.mkz"
+    },
+    {
+        "name": "水果派",
+        "info": "",
+        "icon": "t:π#008000",
+        "sign": "e4eaf128f3d6a32447b04630dc68ebcc",
+        "version": 2,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/水果派.mkz"
+    },
+    {
+        "name": "细狗",
+        "info": "",
+        "icon": "t:🐶#ffffff",
+        "sign": "538a7d3179b0c45ca6c60027612d3f86",
+        "version": 8,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/细狗.mkz"
+    },
+    {
+        "name": "番仓",
+        "info": "",
+        "icon": "t:番#00b5fc",
+        "sign": "4f1a3f289b946d6e35b7100340fb2398",
+        "version": 1,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/番仓.mkz"
+    }    
+]

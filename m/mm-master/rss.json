@@ -1,0 +1,75 @@
+[
+    {
+        "name": "参考网",
+        "info": "",
+        "icon": "t:刊#00aaff",
+        "sign": "b2f33069d0fb0e2f350ab96e7b8e923f",
+        "version": 1,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/参考网.mkz"
+    },
+    {
+        "name": "资料",
+        "info": "",
+        "icon": "t:321#000000",
+        "sign": "3f49ecc7a7721ea0b27fdbb29168359a",
+        "version": 4,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/资料.mkz"
+    },
+    {
+        "name": "B站",
+        "info": "M304",
+        "icon": "https://www.bilibili.com/favicon.ico",
+        "sign": "050e1c8242d2e8d5320e5df33475debd",
+        "version": 20240112,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/B站.mkz"
+    },
+    {
+        "name": "聚搜",
+        "info": "",
+        "icon": "img:sousuo",
+        "sign": "24d7c683e042f51d61abd09774e272a3",
+        "version": 6,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/聚搜.mkz"
+    },
+    {
+        "name": "蚂蚁动漫",
+        "info": "",
+        "icon": "t:🐜#ffffff",
+        "sign": "2c745aaf4b5ffc909d9d631c08ffde23",
+        "version": 1,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/蚂蚁动漫.mkz"
+    },
+    {
+        "name": "铜钟",
+        "info": "",
+        "icon": "t:🔔#ffffff",
+        "sign": "983b676e68cdff28d487732a8dd4060d",
+        "version": 3,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/铜钟.mkz"
+    },
+    {
+        "name": "话本小说",
+        "info": "",
+        "icon": "https://imgcn.ihuaben.com/ihuaben.ico",
+        "sign": "622cdd0ef3731e9550a4ad5f82298716",
+        "version": 1,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/话本小说.mkz"
+    },
+    {
+        "name": "51导航",
+        "info": "",
+        "icon": "t:51#ff8080",
+        "sign": "0a59111b411d0fcae9b0a9cd9b9c877f",
+        "version": 4,
+        "type": "轻站",
+        "url": "http://150.158.44.104:32159/m/mm-master/51导航.mkz"
+    }
+
+]

@@ -1,5 +1,5 @@
 {
-    "spider": "http://150.158.44.104/Yoursmile2.jar",
+    "spider": "./Yoursmile2.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
     "lives": [
         {
@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=http://150.158.44.104/1.txt"
+                        "proxy://do=live&type=txt&ext=./1.txt"
                     ]
                 }
             ]
